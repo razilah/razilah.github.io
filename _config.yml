@@ -1,2 +1,6 @@
-title: Nur Razilah Ibrahim
-theme: jekyll-theme-modernist
+title: Raz Ibrahim's Portfolio
+description: A showcase of my journey as a multiplatform game programmer from prototyping ideas to delivering polished titles across consoles, PC and mobile with a focus on gameplay programming, AI systems and UI.
+author: Nur Razilah Ibrahim
+email: nurrazilahibrahim@gmail.com  
+show_downloads: true
+theme: jekyll-theme-minima
