@@ -7,12 +7,13 @@ I've worked on projects from Nintendo Switch to Playstation, Xbox, PC, and mobil
 
 When I'm not coding, you'll probably find me building custom PCs, perfecting a recipe or getting lost in a game for research purposes. If you're looking for someone who can adapt to any role, and turn design ideas into seamless player-first experiences, you've just found her.
 
-##
+
 ## Latest Work Experience
 **Game Programmer @ Streamline Studio (_May 2022 - April 2025_)**
 - Worked with top tier outsourcing studio specialising in all things video games
 - Collaborated with various AAA partner studios such as Square Enix, Genvid Entertainment, Skydance Interactive and many more
-##
+
+
 ## Worked-on Titles
 ![UIUniverse](/img/UIUniverse.jpg)
 ### Upin & Ipin Universe
