@@ -28,7 +28,7 @@ Platform: Mobile
 A unique experience that blends an interactive streaming series with a mobile game, allowing players to influence the Justice League storyline. I took ownership of implementing new gameplay features, optimized performance for mobile platforms, and oversaw bug fixes through release.
 
 ![SilentHill](/img/SilentHill.jpg)
-### SILENT HILL: Asscension
+### SILENT HILL: Ascension
 Platform: Web, Mobile
 
 An interactive streaming series in the iconic horror franchise. I conducted comprehensive gameplay testing, identified opportunities for optimization, and assisted in bug fixing. This project received the Creative Arts Emmy Award for Outstanding Innovation in Emerging Media Programming.
