@@ -1,17 +1,9 @@
-# Game Programmer
-### Crafting seamless player experiences across Switch, Playstation, Xbox, PC & Mobile with a focus on gameplay programming, AI systems and UI/UX.
+# About Me
+### Razilah Ibrahim (Game Programmer)
 
-Hi, I'm Nur Razilah but you can call me Raz, your friendly neighborhood game programmer! With over 5 years of crafting worlds, building mechanics, and squashing bugs (the code kind, not the crawling ones), I've brought games to life across multiple platforms using Unreal Engine, Unity, and even properitary engines. I've touched nearly every corner of game development from gameplay mechanics and AI systems to UI, tools, and automation. But time and again, studios have trusted me more with the optimization, porting, and multiplatform delivery. 
+With over 5 years of crafting worlds, building mechanics, and squashing bugs (the code kind, not the crawling ones), I've brought games to life across multiple platforms using Unreal Engine, Unity, and even properitary engines. I've touched nearly every corner of game development from gameplay mechanics and AI systems to UI, tools, and automation. I've worked on projects from Nintendo Switch to Playstation, Xbox, PC, and mobile, ensuring each platform gets the best possible experience.
 
-I've worked on projects from Nintendo Switch to Playstation, Xbox, PC, and mobile, ensuring each platform gets the best possible experience. My work spans from cozy local titles to globally recognized franchises. Whether it's building features players love, getting every platform to run smoothly, or streamlining development pipelines, I thrive in solving problems that make games shine everywhere.
-
-When I'm not coding, you'll probably find me building custom PCs, perfecting a recipe or getting lost in a game for research purposes. If you're looking for someone who can adapt to any role, and turn design ideas into seamless player-first experiences, you've just found her.
-
-
-## Latest Work Experience
-**Game Programmer @ Streamline Studio (_May 2022 - April 2025_)**
-- Worked with top tier outsourcing studio specialising in all things video games
-- Collaborated with various AAA partner studios such as Square Enix, Genvid Entertainment, Skydance Interactive and many more
+I'd say I'm curious, adaptable and work-in-progress. I see game development as a constant learning journey, and that is what motivates me. When I'm not coding, you'll probably find me building custom PCs, perfecting a recipe or getting lost in a game for research purposes. If you're looking for someone who can adapt to any role, and turn design ideas into seamless player-first experiences, you've just found her.
 
 
 ## Worked-on Titles
