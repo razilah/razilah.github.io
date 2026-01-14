@@ -1,5 +1,5 @@
 # About Me
-### Razilah Ibrahim (Game Programmer)
+### Game Programmer
 
 With over 5 years of crafting worlds, building mechanics, and squashing bugs (the code kind, not the crawling ones), I've brought games to life across multiple platforms using Unreal Engine, Unity, and even properitary engines. I've touched nearly every corner of game development from gameplay mechanics and AI systems to UI, tools, and automation. I've worked on projects from Nintendo Switch to Playstation, Xbox, PC, and mobile, ensuring each platform gets the best possible experience.
 
