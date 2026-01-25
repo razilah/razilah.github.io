@@ -1,10 +1,7 @@
-# About Me
+# Portfolio
 ### Game Programmer
 
 With over 5 years of crafting worlds, building mechanics, and squashing bugs (the code kind, not the crawling ones), I've brought games to life across multiple platforms using Unreal Engine, Unity, and even properitary engines. I've touched nearly every corner of game development from gameplay mechanics and AI systems to UI, tools, and automation. I've worked on projects from Nintendo Switch to Playstation, Xbox, PC, and mobile, ensuring each platform gets the best possible experience.
-
-I'd say I'm curious, adaptable and work-in-progress. I see game development as a constant learning journey, and that is what motivates me. When I'm not coding, you'll probably find me building custom PCs, perfecting a recipe or getting lost in a game for research purposes. If you're looking for someone who can adapt to any role, and turn design ideas into seamless player-first experiences, you've just found her.
-
 
 ## Worked-on Titles
 ![UIUniverse](/img/UIUniverse.jpg)
